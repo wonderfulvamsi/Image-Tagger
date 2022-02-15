@@ -1,0 +1,59 @@
+.tagwrapper{
+    background-color: #fff;
+    height: 500px;
+    width: 500px;
+    border-radius: 2%;
+    position: relative;
+    top: 160px;
+}
+
+.imgwrapper{
+    background-color: #1a2027;
+    height: 500px;
+    width: 500px;
+    border-radius: 2%;
+    position: relative;
+    top: 160px;
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    color: #2b8cee;
+    opacity: 100%;
+}
+
+
+.nextbtn{
+    width: 35%;
+
+}
+
+.backbtn{
+    width: 35%;
+
+}
+
+.bts{
+    position: relative;
+    top: 200px;
+}
+
+
+.img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.tagtxt{
+    position: relative;
+    top: 20px;
+    width: 450px;
+}
+
+.disctxt{
+    position: relative;
+    top: 100px;
+    width: 450px;
+}
